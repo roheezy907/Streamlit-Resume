@@ -1,9 +1,6 @@
 # Streamlit Resume 
 
-Streamlit is supposed to be the fastest and easiest way to host and share analytical apps. Something that sounded too good to be true, I decided to check it out. 
-And it checks out. I created this resume in 3 hours and hosted it on an free EC2 instance. 
-
-It has an extensive documentation and overall its very easy to use. 
+I recently learned how Streamlit could be used to create and share Data Apps. I found this incredibly useful as it would make it easier to share results of a project in a much more aappealing and fun way. I decided to create this Streamlit resume, the template of this app belongs to... I decided to host this using Heroku. 
 
 Check out the app here: http://54.147.143.114:8501/
  
